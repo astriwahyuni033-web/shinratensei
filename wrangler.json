@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "shinratensei",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c431bc6e-252a-4757-b0b5-d5f1b5fb6959",
+			"database_name": "pain"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
